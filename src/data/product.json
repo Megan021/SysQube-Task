@@ -1,0 +1,35 @@
+[
+     {
+       "id": 1,
+       "title": "Classic Chuck Taylor All Star",
+       "price": 5000,
+       "image": "/images/shoes.webp",
+       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quo deleniti provident quia quas saepe, consequuntur voluptatem fugit labore vero voluptate qui necessitatibus nam id?",
+       "sizes": ["S", "M", "L", "XL"]
+     },
+     {
+       "id": 2,
+       "title": "T-Shirt for Girls",
+       "price": 4500,
+       "image": "/images/t-shirt.jpg",
+       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quo deleniti provident quia quas saepe, consequuntur voluptatem fugit labore vero voluptate qui necessitatibus nam id?.",
+       "sizes": ["S", "M", "L", "XL"]
+     },
+     {
+       "id": 3,
+       "title": "Classic American Jeans",
+       "price": 6000,
+       "image": "/images/pant.jpg",
+       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quo deleniti provident quia quas saepe, consequuntur voluptatem fugit labore vero voluptate qui necessitatibus nam id?",
+       "sizes": ["S", "M", "L", "XL"]
+     },
+     {
+       "id": 4,
+       "title": "Sweatshirt",
+       "price": 7000,
+       "image": "/images/sweatshirt.avif",
+       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quo deleniti provident quia quas saepe, consequuntur voluptatem fugit labore vero voluptate qui necessitatibus nam id?",
+       "sizes": ["S", "M", "L", "XL"]
+     }
+   ]
+   
